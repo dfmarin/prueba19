@@ -5,3 +5,4 @@ pereira
 popayan
 bogota
 medellin
+cucuta
